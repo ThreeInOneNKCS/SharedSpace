@@ -1,6 +1,18 @@
 # SharedSpace
 随便放 
 
+# 我是如何打开的？
+把.py文件和openpose/build/bin openpose/build/python/openpose/Release 和 openpose/build/x64/Release 放到一个文件夹里一定可以避免
+导入报错
+并且要把代码中的各种路径改成绝对路径！因为其中包含module和资源媒体文件，运行后就能显示结果了
+报错的话就想想别的办法
+
+
+
+
+
+
+
 
 # Openpose安装教程阅读资料
 1. 最一开始的官方的(需要翻墙)
